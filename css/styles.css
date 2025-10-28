@@ -10515,3 +10515,8 @@ section.resume-section .resume-section-content {
     font-weight: bold;
     color: #fff !important;
 }
+
+.banner-image {
+  width: 100px;
+  height: 80px;
+}
